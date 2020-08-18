@@ -1,0 +1,16 @@
+.slider {
+  margin: 0 auto;
+  height: 250px;
+  background-color: #d6dbdf;
+  overflow: hidden;
+  position: relative;
+}
+
+.item {
+  height: 250px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
